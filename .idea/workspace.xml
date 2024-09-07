@@ -5,65 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1d726d27-bb64-44fb-aec2-a6894346cab7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/book_catalog.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Procfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/auth/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/auth/forms.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/auth/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/auth/routes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/auth/templates/404.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/auth/templates/login.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/auth/templates/registration.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/catalog/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/catalog/forms.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/catalog/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/catalog/routes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/catalog/templates/create_book.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/catalog/templates/delete_book.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/catalog/templates/edit_book.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/catalog/templates/home.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/catalog/templates/layout.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/catalog/templates/publisher.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/static/css/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/static/img/amphibian-150342.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/static/img/bat-1817643.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/static/img/boat-1296201.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/static/img/book-1294676.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/static/img/book-life-34063.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/static/img/books.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/static/img/broom-145379.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/static/img/cat-150306.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/static/img/chaos-1769656.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/static/img/cosmic-160320.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/static/img/cranium-2028555.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/static/img/dog-159271.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/static/img/dragon-23164.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/static/img/halloween-478582.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/static/img/incognito-160143.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/static/img/love-2026554.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/static/img/magpie-147852.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/static/img/man-37603.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/static/img/mandala-1817599.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/static/img/mummy-146868.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/static/img/music-306008.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/static/img/resume.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/static/img/salvador-dali-32079.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/static/img/skeletor-2026923.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/static/img/wolf-153648.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/static/img/yoga-23824.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/dev.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/prod.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/run.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run.py" beforeDir="false" afterPath="$PROJECT_DIR$/run.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,6 +27,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.run.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "settings.editor.selected.configurable": "preferences.lookFeel"
